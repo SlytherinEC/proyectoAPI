@@ -1,0 +1,629 @@
+[
+    {
+        "id": 1,
+        "question": "¿Cuál es el nombre completo del personaje principal de Futurama?",
+        "possibleAnswers": [
+            "Philip J. Fry",
+            "Bender Bending Rodríguez",
+            "Turanga Leela",
+            "Hubert J. Farnsworth"
+        ],
+        "correctAnswer": "Philip J. Fry"
+    },
+    {
+        "id": 2,
+        "question": "¿Cuál es el apellido de Leela?",
+        "possibleAnswers": [
+            "Turanga",
+            "Fry",
+            "Bender",
+            "Farnsworth"
+        ],
+        "correctAnswer": "Turanga"
+    },
+    {
+        "id": 3,
+        "question": "¿Cuál es el nombre del robot que es alcohólico?",
+        "possibleAnswers": [
+            "Bender",
+            "Philip J. Fry",
+            "Turanga Leela",
+            "Hubert J. Farnsworth"
+        ],
+        "correctAnswer": "Bender"
+    },
+    {
+        "id": 4,
+        "question": "¿Quién es el mejor amigo de Fry?",
+        "possibleAnswers": [
+            "Bender",
+            "Turanga Leela",
+            "Hubert J. Farnsworth",
+            "Zapp Brannigan"
+        ],
+        "correctAnswer": "Bender"
+    },
+    {
+        "id": 5,
+        "question": "¿Quién es el propietario de la empresa Planet Express?",
+        "possibleAnswers": [
+            "Hubert J. Farnsworth",
+            "Philip J. Fry",
+            "Bender Bending Rodríguez",
+            "Turanga Leela"
+        ],
+        "correctAnswer": "Hubert J. Farnsworth"
+    },
+    {
+        "id": 6,
+        "question": "En 'El Gran Golpe de Bender', ¿qué especie alienígena estafa a la Tierra?",
+        "possibleAnswers": [
+            "Nibbloniens",
+            "Omicrons",
+            "Robots",
+            "Alienígenas nudistas"
+        ],
+        "correctAnswer": "Alienígenas nudistas"
+    },
+    {
+        "id": 7,
+        "question": "¿Cuál es el planeta natal de Leela?",
+        "possibleAnswers": [
+            "Cyclopia",
+            "Futurama",
+            "Marte",
+            "Nibiru"
+        ],
+        "correctAnswer": "Nibiru"
+    },
+    {
+        "id": 8,
+        "question": "¿Quién es el padre de Fry?",
+        "possibleAnswers": [
+            "Yancy Fry Sr.",
+            "Philip J. Fry",
+            "Yancy Jr.",
+            "Hubert J. Farnsworth"
+        ],
+        "correctAnswer": "Yancy Fry Sr."
+    },
+    {
+        "id": 9,
+        "question": "¿Qué es lo que Fry comió en el primer episodio de Futurama que le hizo estar congelado durante 1000 años?",
+        "possibleAnswers": [
+            "Un sandwich de pizza",
+            "Un perro caliente",
+            "Un bocadillo de mantequilla de cacahuete",
+            "Una hamburguesa"
+        ],
+        "correctAnswer": "Un perro caliente"
+    },
+    {
+        "id": 10,
+        "question": "¿Cuál es el nombre del perro de Fry que estaba esperándolo durante su tiempo congelado?",
+        "possibleAnswers": [
+            "Seymour",
+            "Buster",
+            "Nibbler",
+            "Fry no tenía un perro"
+        ],
+        "correctAnswer": "Seymour"
+    },
+    {
+        "id": 11,
+        "question": "¿Cuál es el apellido de Hermes?",
+        "possibleAnswers": [
+            "Conrad",
+            "Farnsworth",
+            "Wong",
+            "Brannigan"
+        ],
+        "correctAnswer": "Conrad"
+    },
+    {
+        "id": 12,
+        "question": "¿Cuál es el primer nombre de Fry?",
+        "possibleAnswers": [
+            "Fred",
+            "Philip",
+            "Will",
+            "John"
+        ],
+        "correctAnswer": "Philip"
+    },
+    {
+        "id": 13,
+        "question": "¿Quién es el capitán de la nave Planet Express?",
+        "possibleAnswers": [
+            "Turanga Leela",
+            "Bender Bending Rodríguez",
+            "Hubert J. Farnsworth",
+            "Zapp Brannigan"
+        ],
+        "correctAnswer": "Turanga Leela"
+    },
+    {
+        "id": 14,
+        "question": "¿Cuál es el nombre del hijo de Leela y Fry?",
+        "possibleAnswers": [
+            "Yancy",
+            "Philip",
+            "Fry Jr.",
+            "Yancy Jr."
+        ],
+        "correctAnswer": "Yancy Jr."
+    },
+    {
+        "id": 15,
+        "question": "¿Quién es el sobrino de Zoidberg?",
+        "possibleAnswers": [
+            "Harold Zoid",
+            "Nibbler Zoid",
+            "Robot Devil",
+            "Calculon"
+        ],
+        "correctAnswer": "Harold Zoid"
+    },
+    {
+        "id": 16,
+        "question": "Cuál es el nombre del robot que es famoso por decir 'Bite my shiny metal ass'?",
+        "possibleAnswers": [
+            "Bender",
+            "Calculon",
+            "Robot Devil",
+            "Hedonismbot"
+        ],
+        "correctAnswer": "Bender"
+    },
+    {
+        "id": 17,
+        "question": "¿Cuál es el nombre de la nave espacial de la serie Futurama?",
+        "possibleAnswers": [
+            "Planet Express Ship",
+            "S.S. Titanic",
+            "Nimbus",
+            "Heart of Gold"
+        ],
+        "correctAnswer": "Planet Express Ship"
+    },
+    {
+        "id": 18,
+        "question": "¿Cuál es el nombre del planeta natal de Amy?",
+        "possibleAnswers": [
+            "Marte",
+            "Saturno",
+            "Júpiter",
+            "Nibiru"
+        ],
+        "correctAnswer": "Marte"
+    },
+    {
+        "id": 19,
+        "question": "¿Qué es lo que ama Zapp Brannigan sobre todas las cosas?",
+        "possibleAnswers": [
+            "Su ego",
+            "La justicia",
+            "Las mujeres",
+            "Las batallas espaciales"
+        ],
+        "correctAnswer": "Las mujeres"
+    },
+    {
+        "id": 20,
+        "question": "¿Qué es lo que siempre dice el profesor Farnsworth al entrar en una habitación?",
+        "possibleAnswers": [
+            "¡Buenas noticias, todo el mundo!",
+            "¡A la mierda todo el mundo!",
+            "¡Llegó el profesor!",
+            "¡Lo he hecho otra vez!"
+        ],
+        "correctAnswer": "¡Buenas noticias, todo el mundo!"
+    },
+    {
+        "id": 21,
+        "question": "¿Cómo se llama el programa de televisión que Zapp Brannigan protagoniza junto a Kif?",
+        "possibleAnswers": [
+            "The Zapp Brannigan Show",
+            "Brannigan's Heroes",
+            "Two and a Half Men",
+            "Futurama"
+        ],
+        "correctAnswer": "The Zapp Brannigan Show"
+    },
+    {
+        "id": 22,
+        "question": "¿Quién es el líder del sindicato de robots?",
+        "possibleAnswers": [
+            "Bender Bending Rodríguez",
+            "Calculon",
+            "Robot Devil",
+            "Hedonismbot"
+        ],
+        "correctAnswer": "Bender Bending Rodríguez"
+    },
+    {
+        "id": 23,
+        "question": "¿Cuál es el nombre del bar donde los personajes de Futurama suelen pasar el rato?",
+        "possibleAnswers": [
+            "El Lagarto Borracho",
+            "La Cabeza del Robot",
+            "El Salón de la Fama de las Celebridades",
+            "El Planet Express"
+        ],
+        "correctAnswer": "El Lagarto Borracho"
+    },
+    {
+        "id": 24,
+        "question": "¿Qué profesión ejerce el Dr. Zoidberg?",
+        "possibleAnswers": [
+            "Médico",
+            "Profesor",
+            "Entrenador",
+            "Actor"
+        ],
+        "correctAnswer": "Médico"
+    },
+    {
+        "id": 25,
+        "question": "¿Cuál es el apellido de Amy?",
+        "possibleAnswers": [
+            "Wong",
+            "Farnsworth",
+            "Conrad",
+            "Brannigan"
+        ],
+        "correctAnswer": "Wong"
+    },
+    {
+        "id": 26,
+        "question": "¿Qué es lo que siempre dice el Dr. Zoidberg cuando se siente emocionado?",
+        "possibleAnswers": [
+            "Woob woob woob!",
+            "Gloria a Zoidberg!",
+            "¡Amigos míos!",
+            "¡Feliz día!"
+        ],
+        "correctAnswer": "Woob woob woob!"
+    },
+    {
+        "id": 27,
+        "question": "¿Cuál es el segundo y apellido de Bender?",
+        "possibleAnswers": [
+            "E Smithie",
+            "Flam Flexo",
+            "Bending Rodriguez",
+            "Steven Martin"
+        ],
+        "correctAnswer": "Bending Rodriguez"
+    },
+    {
+        "id": 28,
+        "question": "¿Qué es lo que siempre quiere hacer Fry con su vida?",
+        "possibleAnswers": [
+            "No quiere hacer nada",
+            "Ser un superhéroe",
+            "Ser millonario",
+            "Ser famoso"
+        ],
+        "correctAnswer": "Ser famoso"
+    },
+    {
+        "id": 29,
+        "question": "¿Qué es lo que siempre dice Hermes cuando está estresado?",
+        "possibleAnswers": [
+            "¡Dios mío!",
+            "¡Oh, madre!",
+            "¡Maldición!",
+            "¡Oh, caracoles!"
+        ],
+        "correctAnswer": "¡Oh, madre!"
+    },
+    {
+        "id": 30,
+        "question": "¿Cuál es el trabajo de Amy en Planet Express?",
+        "possibleAnswers": [
+            "Estudiante",
+            "Piloto",
+            "Mecánico",
+            "Repartidora"
+        ],
+        "correctAnswer": "Piloto"
+    },
+    {
+        "id": 31,
+        "question": "¿Cuál era el trabajo de Fry en 1999?",
+        "possibleAnswers": [
+            "Cazador de recompensas",
+            "Repartidor",
+            "Trabajador de fábrica",
+            "Cocinero"
+        ],
+        "correctAnswer": "Repartidor"
+    },
+    {
+        "id": 32,
+        "question": "¿Cómo conoció Fry a Bender en el primer episodio?",
+        "possibleAnswers": [
+            "En un bar",
+            "En una cabina de suicidio",
+            "En la calle",
+            "Buscando trabajo"
+        ],
+        "correctAnswer": "En una cabina de suicidio"
+    },
+    {
+        "id": 33,
+        "question": "En 'Las Reglas de la Casa Cibernética', ¿cuántos huérfanos adopta Bender?",
+        "possibleAnswers": [
+            "8",
+            "10",
+            "12",
+            "14"
+        ],
+        "correctAnswer": "12"
+    },
+    {
+        "id": 34,
+        "question": "En 'La Razón de Fry', ¿qué vehículo le da Nibbler a Fry para viajar a la Infósfera?",
+        "possibleAnswers": [
+            "Scooty-Puff Jr",
+            "Zooty-Puff Jr",
+            "Scoochy-Puff Jr",
+            "Booty-Puff Jr"
+        ],
+        "correctAnswer": "Scooty-Puff Jr"
+    },
+    {
+        "id": 35,
+        "question": "La esposa de Hermes, LaBarbara, estuvo casada una vez con ¿quién?",
+        "possibleAnswers": [
+            "Trinidad Slim",
+            "Barbados Slim",
+            "Antigua Slim",
+            "Grenada Slim"
+        ],
+        "correctAnswer": "Barbados Slim"
+    },
+    {
+        "id": 36,
+        "question": "¿Cuál es el apellido de Amy?",
+        "possibleAnswers": [
+            "Wong",
+            "Farnsworth",
+            "Conrad",
+            "Brannigan"
+        ],
+        "correctAnswer": "Wong"
+    },
+    {
+        "id": 37,
+        "question": "¿Qué es lo que siempre dice el Dr. Zoidberg cuando se siente emocionado?",
+        "possibleAnswers": [
+            "Woob woob woob!",
+            "Gloria a Zoidberg!",
+            "¡Amigos míos!",
+            "¡Feliz día!"
+        ],
+        "correctAnswer": "Woob woob woob!"
+    },
+    {
+        "id": 38,
+        "question": "¿Cuál es la bebida favorita de Bender?",
+        "possibleAnswers": [
+            "Cerveza",
+            "Aceite",
+            "Vino",
+            "Whisky"
+        ],
+        "correctAnswer": "Cerveza"
+    },
+    {
+        "id": 39,
+        "question": "¿Qué es lo que siempre quiere hacer Fry con su vida?",
+        "possibleAnswers": [
+            "No quiere hacer nada",
+            "Ser un superhéroe",
+            "Ser millonario",
+            "Ser famoso"
+        ],
+        "correctAnswer": "Ser famoso"
+    },
+    {
+        "id": 40,
+        "question": "¿Cuál es el lema de Planet Express?",
+        "possibleAnswers": [
+            "Nuestra tripulación es reemplazable. Tu paquete no.",
+            "Somos el servicio más rápido, no importa cuánto tiempo tome.",
+            "Lo llevaremos allí, eventualmente.",
+            "Si no está roto, lo romperemos."
+        ],
+        "correctAnswer": "Nuestra tripulación es reemplazable. Tu paquete no."
+    },
+    {
+        "id": 41,
+        "question": "¿Cuál es el trabajo de Amy en Planet Express?",
+        "possibleAnswers": [
+            "Estudiante",
+            "Piloto",
+            "Mecánico",
+            "Repartidora"
+        ],
+        "correctAnswer": "Piloto"
+    },
+    {
+        "id": 42,
+        "question": "¿A dónde viaja la tripulación para encontrar el were-car original en 'El Pitido'?",
+        "possibleAnswers": [
+            "La vieja fábrica abandonada de Chevrolet",
+            "La vieja fábrica abandonada de Dodge",
+            "La vieja fábrica abandonada de Ford",
+            "La vieja fábrica abandonada de Chrysler"
+        ],
+        "correctAnswer": "La vieja fábrica abandonada de Chrysler"
+    },
+    {
+        "id": 43,
+        "question": "¿Cuál era el nombre de la novia sirena de Fry en 'El Sur Profundo'?",
+        "possibleAnswers": [
+            "Ariel",
+            "Umbriel",
+            "Azriel",
+            "Meriel"
+        ],
+        "correctAnswer": "Umbriel"
+    },
+    {
+        "id": 44,
+        "question": "¿Cuál era el PIN de la tarjeta de ATM de Fry, como se revela en 'Un Montón de Dólares'?",
+        "possibleAnswers": [
+            "1077",
+            "1150",
+            "1089",
+            "1999"
+        ],
+        "correctAnswer": "1077"
+    },
+    {
+        "id": 45,
+        "question": "En 'El Infierno son los Otros Robots', ¿a qué religión recurre Bender para ayudar a superar su adicción?",
+        "possibleAnswers": [
+            "Liga de la Ciencología",
+            "Templo de Robotología",
+            "Iglesia de Roboismo",
+            "Orden de Mecanología"
+        ],
+        "correctAnswer": "Templo de Robotología"
+    },
+    {
+        "id": 46,
+        "question": "¿Cuál de los siguientes no es miembro de la Liga de Pelea de Robots Definitiva?",
+        "possibleAnswers": [
+            "El Cortador",
+            "Bot Millonario",
+            "Sargento Procesador de Heces",
+            "El Fumador"
+        ],
+        "correctAnswer": "Bot Millonario"
+    },
+    {
+        "id": 47,
+        "question": "En 'La Mujer Criónica', ¿cuál era el nombre del líder de los adolescentes ferales que desafía a Fry en el Rodaje de Muerte?",
+        "possibleAnswers": [
+            "Butch",
+            "Zed",
+            "Spike",
+            "Snake"
+        ],
+        "correctAnswer": "Zed"
+    },
+    {
+        "id": 48,
+        "question": "¿Qué rango tiene Kif en la DOOP?",
+        "possibleAnswers": [
+            "Sargento",
+            "Capitán",
+            "Teniente",
+            "Mayor"
+        ],
+        "correctAnswer": "Teniente"
+    },
+    {
+        "id": 49,
+        "question": "¿Quiénes son los dos policías recurrentes, a menudo vistos alrededor de New New York?",
+        "possibleAnswers": [
+            "Jonesy y ISP",
+            "Smitty y URL",
+            "Brady y Dotcom",
+            "Harry y Capslock"
+        ],
+        "correctAnswer": "Brady y Dotcom"
+    },
+    {
+        "id": 50,
+        "question": "En 'Locos en el Lóbulo', ¿quién es el compañero de cuarto de Fry en el Asilo para Robots Mentalmente Insanos antes de que Roberto se mude?",
+        "possibleAnswers": [
+            "Joey Mousepad",
+            "Tinny Tim",
+            "Hedonismbot",
+            "Eddie Malfuncionamiento"
+        ],
+        "correctAnswer": "Eddie Malfuncionamiento"
+    },
+    {
+        "id": 51,
+        "question": "¿Qué producto utiliza con éxito un anuncio de ensueño para comercializarse a Fry?",
+        "possibleAnswers": [
+            "Slurm",
+            "Comida de Soltero",
+            "Calzoncillos a la Velocidad de la Luz",
+            "Aceite de Robot de Mamá"
+        ],
+        "correctAnswer": "Calzoncillos a la Velocidad de la Luz"
+    },
+    {
+        "id": 52,
+        "question": "¿Qué empresa dirige el Dr. Farnsworth?",
+        "possibleAnswers": [
+            "Space Express",
+            "Earth Express",
+            "Planet Express",
+            "Federal Express"
+        ],
+        "correctAnswer": "Planet Express"
+    },
+    {
+        "id": 53,
+        "question": "¿Cómo se llamaba originalmente Futurama?",
+        "possibleAnswers": [
+            "Doomsville o Aloha Mars",
+            "Desencuentros Lrrrenconciliables Ndnd",
+            "Futurella",
+            "Mundo del Mañana"
+        ],
+        "correctAnswer": "Doomsville o Aloha Mars"
+    },
+    {
+        "id": 54,
+        "question": "¿Cuáles son los animales plaga en Nueva Nueva York?",
+        "possibleAnswers": [
+            "Ratas",
+            "Caimanes Mutantes",
+            "Búhos",
+            "Omicrones"
+        ],
+        "correctAnswer": "Búhos"
+    },
+    {
+        "id": 55,
+        "question": "En 'Los Trabajos de Amor en el Espacio', ¿a qué club fue Leela para encontrar pareja?",
+        "possibleAnswers": [
+            "Club Extravaganza",
+            "Bubble Bar",
+            "Hip Joint",
+            "O'Gorgnaxs"
+        ],
+        "correctAnswer": "Hip Joint"
+    },
+    {
+        "id": 56,
+        "question": "En 'Miedo al Planeta de los Robots', ¿qué festividad religiosa robot falsa inventó Bender?",
+        "possibleAnswers": [
+            "Bot-Mitvah",
+            "Robanza",
+            "Robonukah",
+            "Robotisam"
+        ],
+        "correctAnswer": "Robonukah"
+    },
+    {
+        "id": 57,
+        "question": "En 'Fry y la Fábrica de Slurm', ¿qué usaron Fry y Bender para mirar en las latas de Slurm?",
+        "possibleAnswers": [
+            "Rayos X",
+            "Rayos Z",
+            "Lookamatic 5000",
+            "Rayos F"
+        ],
+        "correctAnswer": "Lookamatic 5000"
+    }
+]

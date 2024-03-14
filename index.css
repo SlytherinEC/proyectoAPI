@@ -1,0 +1,358 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#contenedorGrande{
+    background-image: url("img/wallpaper_1.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+#imagenFondoPersonajes{
+    background-image: url("img/cielo.avif");
+    background-repeat: repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+
+}
+#cajaHeader{
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: center;
+   background-color:  #00b1ff;
+    
+
+   
+    
+}
+#cajaHeader img{
+    height: 150px;
+    width: 900px;
+    
+}
+
+
+.contenedor {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: space-between;} */
+}
+
+#logo{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    margin: 10px;
+    /* background-color: aqua; */
+}
+#principal{
+    
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#imgLogo {
+
+    background-image: url(img/logo.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 200%;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+
+}
+
+#mensajeBienvenida{
+    display: flex;
+    align-self: center;
+    width: 90%;
+    /* background-color: green; */
+    margin-left: 5%;
+    color: #ffd966;
+}
+
+section{
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#listaFichas{
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-image: url("img/cielo.avif");
+    background-repeat: repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.menu{
+    width: 100%;
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+   
+}
+
+.ficha{
+    width: 100%; 
+    max-width: 210px;
+    margin: 10px;
+    border: #000000 solid 2px;
+}
+
+.image{
+
+    width: 100%;
+    height: 120px;
+    background-color: red;
+    margin: auto;
+    
+}
+
+.image img{
+
+    width: 100%;
+    height: 120px;
+    object-fit: cover; /*Evita que se deforme la imagen*/
+}
+
+.detalle{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    height: 500px;
+    
+}
+.detalle img{
+    height: 100%;
+    object-fit: cover;
+}
+.tabla h1{
+    text-align: center;
+    font-size: 40px;
+}
+
+.tabla p{
+    margin: 5px;
+    padding: 5px;
+    border: #000000 solid 3px;
+}
+
+.tabla{
+    display: flex;
+    flex-direction: column;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    justify-content: center;
+    margin-left: 20px;
+}
+
+.detalle img{
+
+    width: 270px;
+    /* background-color: red; */
+   
+    
+    
+   
+}
+.btnDetalle{
+    padding: 5px;
+    
+    
+}
+
+
+#seccionJuego{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;    
+    width: 95%;
+    height: 640px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   
+    
+   
+    
+}
+
+#contenedorEstadisticas{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 90%;
+    height: 30px;
+    background-color: #0097fe60;
+}
+
+#contenedorPregunta{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 90%;
+    height: 120px;
+    background-color: #00bdff60;
+
+}
+
+#contenedorRespuestas{
+
+    width: 90%;
+    height: 350;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+    background-color:#00b1ff60;
+}
+
+#contenedorRespuestas button{
+
+    width: 200px;
+    height: 80;
+    
+}
+
+#contenedorResultado{
+
+    width: 90%;
+    height: 80px;
+    background-color: #03bcfd60;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+#descripcion{
+    width: 207px;
+    height: 60px;
+    background-color: skyblue;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-direction: column;
+   
+    
+}
+#descripcion h4{
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   font-size: smaller;
+   text-align: center;
+
+
+}
+
+li{
+    list-style: none;
+}
+
+button {
+    background-color: #fde290;
+    color: #000000;
+    padding: 10px 20px;
+    margin: 5px;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.4);
+    transition: box-shadow 0.3s;
+    cursor: pointer;
+}
+
+button:active {
+    box-shadow: inset 0px 1px 5px rgba(0, 0, 0, 0.4);
+}
+
+.pie{
+
+    justify-self: flex-end;
+}
+#respuesta0{
+    background-color: #008000cc;
+}
+#respuesta1{
+    background-color: #ffff00cc;
+}
+#respuesta2{
+    background-color:#ffa500cc;
+}
+#respuesta3{
+    background-color: #ff0000cc;
+}
+/* Pantallas medianas (tabletas) */
+@media only screen and (max-width: 768px) {
+    #cajaHeader img {
+        width: 100%;
+    }
+
+    .ficha {
+        width: calc(50% - 20px);
+        height: 184px;
+    }
+
+    #contenedorRespuestas button {
+        width: calc(50% - 20px);
+        height: 60px;
+    }
+    #contenedorGrande{
+        width: 100%;
+        height: 100%;
+    }
+    #imagenFondoPersonajes{
+        width: 100%;
+        height: 100%;
+    }
+    #descripcion {
+        width: 100%;
+    }
+
+}
+
+/* Pantallas pequeñas (teléfonos) */
+@media only screen and (max-width: 480px) {
+    #cajaHeader img {
+        width: 100%;
+    }
+
+    .ficha {
+        width: calc(100% - 20px);
+        height: 184px;
+    }
+
+    #contenedorRespuestas button {
+        width: calc(100% - 20px);
+        height: 50px;
+    }
+    #contenedorGrande{
+        width: 100%;
+        height: 100%;
+    }
+    #imagenFondoPersonajes{
+        background-size: auto;
+    }
+    #descripcion {
+        width: 100%;
+    }
+}
+
+
+
